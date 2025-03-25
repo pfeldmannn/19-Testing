@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Which of the following is a mutable data type in Python?",
+        "answers": [
+          { "text": "str", "isCorrect": false },
+          { "text": "tuple", "isCorrect": false },
+          { "text": "list", "isCorrect": true },
+          { "text": "int", "isCorrect": false }
+        ]
+    },
+
+    {
+        "question": "What is the keyword used to define a function in Python?",
+        "answers": [
+          { "text": "function", "isCorrect": false },
+          { "text": "func", "isCorrect": false },
+          { "text": "def", "isCorrect": true },
+          { "text": "define", "isCorrect": false }
+        ]
+      }
+]
+
